@@ -3,6 +3,9 @@ import React, { useState, useEffect } from 'react'
 import styles from './Navbar.module.css'
 import { FaBars, FaTimes } from 'react-icons/fa'
 
+// Base-URL safe path for Vite public assets
+const REDIX_LOGO = `${import.meta.env.BASE_URL}redix_logo.png`
+
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false)
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -40,15 +43,11 @@ const Navbar = () => {
           onClick={(e) => handleNavClick(e, '#hero')}
         >
           <img
-            src="/redix_logo.png"
+            src={REDIX_LOGO}
             alt="Redix Digital Solutions"
             className={styles.logoImg}
             loading="eager"
           />
-          <div className={styles.brandText}>
-            <span className={styles.logoText}>Redix</span>
-            <span className={styles.logoSubtext}></span>
-          </div>
         </a>
 
         <ul className={`${styles.navLinks} ${mobileMenuOpen ? styles.active : ''}`}>
