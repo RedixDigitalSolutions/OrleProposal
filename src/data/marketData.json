@@ -1,0 +1,68 @@
+{
+  "title": "Market & Competitive Analysis",
+  "subtitle": "Tunisia Consumer Market Overview",
+  "digitalLandscape": [
+    {
+      "icon": "users",
+      "value": "7.12M",
+      "label": "Active Social Media Users"
+    },
+    {
+      "icon": "chart",
+      "value": "84.36%",
+      "label": "Facebook Market Share"
+    },
+    {
+      "icon": "mobile",
+      "value": "5.18M",
+      "label": "TikTok Adult Users"
+    },
+    {
+      "icon": "shopping",
+      "value": "5.2%",
+      "label": "Online Sales Share"
+    }
+  ],
+  "keyDrivers": [
+    "Rising disposable income and urbanization",
+    "Changing lifestyle trends and Western cultural influence",
+    "Social media and influencer impact on grooming awareness",
+    "Growing acceptance of men's personal care routines"
+  ],
+  "marketGrowth": [
+    {
+      "value": "$2.4B",
+      "label": "Tunisia skin care market expected to reach by 2026, growing at 4.8% CAGR"
+    },
+    {
+      "value": "$911.08M",
+      "label": "Beauty & Personal Care market revenue in 2025"
+    },
+    {
+      "value": "$71.93",
+      "label": "Per capita revenue per person in 2025"
+    },
+    {
+      "value": "1.77B TND",
+      "label": "Cosmetics sector revenue, representing 1.6% of national GDP"
+    }
+  ],
+  "marketSegments": [
+    {
+      "label": "Facial skincare dominates with 55% market share",
+      "percentage": "55%"
+    },
+    {
+      "label": "Hair care represents 14% of skin care market",
+      "percentage": "14%"
+    },
+    {
+      "label": "Premium and luxury products showing increased demand",
+      "percentage": "20%"
+    },
+    {
+      "label": "Natural and organic products gaining popularity",
+      "percentage": "11%"
+    }
+  ]
+}

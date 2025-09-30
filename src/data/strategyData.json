@@ -1,0 +1,59 @@
+{
+  "title": "Digital Marketing Strategy",
+  "socialMedia": [
+    {
+      "platform": "instagram",
+      "name": "Instagram Strategy",
+      "strategies": [
+        "Focus on visual storytelling and lifestyle content",
+        "Leverage Reels for product demonstrations and tutorials",
+        "Partner with local Tunisian male influencers",
+        "User-generated content campaigns",
+        "Instagram Shopping integration for direct sales"
+      ],
+      "target": "3.5% engagement rate (above industry average of 2.7%)"
+    },
+    {
+      "platform": "facebook",
+      "name": "Facebook Strategy",
+      "strategies": [
+        "Community building and customer service",
+        "Targeted advertising campaigns",
+        "Event promotion and brand storytelling",
+        "Leverage Facebook's 84.36% market share in Tunisia"
+      ]
+    },
+    {
+      "platform": "tiktok",
+      "name": "TikTok Strategy",
+      "strategies": [
+        "Short-form educational content about men's skincare routines",
+        "Trending audio and hashtag utilization",
+        "Before/after transformation content",
+        "Collaborate with Tunisian TikTok creators",
+        "Leverage TikTok's 5.18 million adult users in Tunisia"
+      ],
+      "target": "6% engagement rate (above industry average of 5.2%)"
+    }
+  ],
+  "metaAds": {
+    "campaignStructure": [
+      "Awareness campaigns: Video content showcasing brand values",
+      "Consideration campaigns: Product education and tutorials",
+      "Conversion campaigns: Direct response ads with clear CTAs",
+      "Retargeting campaigns: Re-engage website visitors and social media engagers"
+    ],
+    "targeting": [
+      "Primary: Tunisian men aged 18-35, urban areas",
+      "Interests: Grooming, fitness, fashion, lifestyle",
+      "Behaviors: Online shoppers, beauty product purchasers",
+      "Lookalike audiences based on website visitors and social media followers"
+    ],
+    "budgetAllocation": [
+      "Facebook Ads: 40% of paid media budget",
+      "Instagram Ads: 35% of paid media budget",
+      "TikTok Ads: 25% of paid media budget",
+      "Expected CPM: $0.90-$1.20"
+    ]
+  }
+}

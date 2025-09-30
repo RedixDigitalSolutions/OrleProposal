@@ -1,0 +1,68 @@
+
+{
+  "title": "Competitive Landscape",
+  "internationalBrands": [
+    {
+      "name": "L'Oréal",
+      "tagline": "Broad portfolio",
+      "summary": "Strong presence across price tiers with deep retail distribution and brand equity.",
+      "strengths": ["Distribution", "Brand trust", "R&D"],
+      "insights": ["High shelf visibility", "Multi‑category dominance", "Premium and mass reach"],
+      "focus": "Multi‑segment",
+      "positioning": "Mainstream–Premium"
+    },
+    {
+      "name": "Nivea",
+      "tagline": "Men’s line depth",
+      "summary": "Well‑established grooming SKUs with consistent communication and accessibility.",
+      "strengths": ["Availability", "Consistency", "Affordability"],
+      "insights": ["High awareness in men’s category", "Strong basic care narrative", "Mass market reach"],
+      "focus": "Core care",
+      "positioning": "Value–Mainstream"
+    },
+    {
+      "name": "Beiersdorf AG",
+      "tagline": "Premium skin science",
+      "summary": "Science‑led positioning and quality cues that appeal to performance seekers.",
+      "strengths": ["Scientific cues", "Quality", "Premium feel"],
+      "insights": ["Effective for performance claims", "Higher price tolerance", "Selective audience"],
+      "focus": "Performance skincare",
+      "positioning": "Premium"
+    }
+  ],
+  "localBrands": [
+    {
+      "name": "Kamaana",
+      "tagline": "Curly hair focus",
+      "summary": "First‑mover specialist for curly hair with community appeal in Tunisia.",
+      "strengths": ["Niche expertise", "Community", "Authenticity"],
+      "insights": ["Strong organic engagement", "Niche solves real pain", "UGC friendly"],
+      "focus": "Textured hair",
+      "positioning": "Niche"
+    },
+    {
+      "name": "PalmaCare",
+      "tagline": "Bio skincare",
+      "summary": "Natural ingredients and bio positioning aligned with clean beauty trends.",
+      "strengths": ["Natural", "Local insight", "Trust building"],
+      "insights": ["Organic interest rising", "Ingredient storytelling works", "Retail + DTC"],
+      "focus": "Natural care",
+      "positioning": "Mainstream–Niche"
+    },
+    {
+      "name": "Bahia Cosmetics",
+      "tagline": "Organic beauty",
+      "summary": "Local organic brand with growing recognition and accessible price points.",
+      "strengths": ["Accessible", "Organic", "Local trust"],
+      "insights": ["Great for entry segments", "Education boosts adoption", "Potential for men’s line"],
+      "focus": "Organic basics",
+      "positioning": "Value–Mainstream"
+    }
+  ],
+  "opportunities": [
+    "Limited specialized men’s grooming brands: position ORLE as the men‑first authority.",
+    "Lack of locally‑focused men’s marketing: lean into Tunisian male lifestyle and culture.",
+    "Growing demand for natural ingredients: anchor messaging in clean, bio, and safe.",
+    "Underserved e‑commerce channel: own DTC with fast checkout and subscriptions."
+  ]
+}

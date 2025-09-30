@@ -1,0 +1,84 @@
+{
+  "paymentTerms": [
+    "50% advance payment required upon agreement signing",
+    "Remaining 50% paid within 30 days of service commencement",
+    "Website package: 30% advance, 70% upon completion and launch"
+  ],
+  "scalabilityClause": "If Orle demonstrates significant growth and scalability within 2 months, an upgrade to the next package tier will be required to maintain service quality and support increased demands.",
+  "packages": [
+    {
+      "name": "370 TND PACK",
+      "price": "370",
+      "description": "Basic Package - Without Ads",
+      "featured": false,
+      "features": [
+        "1 video shoot session (tournage)",
+        "4 videos + simple editing",
+        "2 posts (AI-generated images or graphic design)",
+        "Content roadmap creation",
+        "Scripting + video ideas (client implementation with Redix guidance)",
+        "Marketing strategy development",
+        "Optimal posting times analysis",
+        "Social media monitoring and reporting"
+      ]
+    },
+    {
+      "name": "550 TND PACK",
+      "price": "550",
+      "description": "Standard Package - Without Ads",
+      "featured": true,
+      "features": [
+        "1 video shoot session (tournage)",
+        "6 videos + simple editing",
+        "2 posts (AI-generated images or graphic design)",
+        "Complete scripting + video ideas (Redix implementation)",
+        "Full marketing strategy development",
+        "Content calendar management",
+        "Performance analytics and reporting"
+      ]
+    },
+    {
+      "name": "850 TND PACK",
+      "price": "850",
+      "description": "Premium Package - Without Ads",
+      "featured": false,
+      "features": [
+        "2 video shoot sessions (tournage)",
+        "8 videos + simple editing",
+        "2 posts (AI-generated images or graphic design)",
+        "Complete scripting + video ideas (Redix implementation)",
+        "Full marketing strategy and execution",
+        "Advanced analytics and reporting",
+        "Strategy optimization based on performance",
+        "Monthly strategy review sessions",
+        "AI tool subscription payments (Redix responsibility)"
+      ]
+    },
+    {
+      "name": "1550 TND PACK + Website",
+      "price": "1550",
+      "description": "Complete Digital Solution",
+      "featured": false,
+      "features": [
+        "🎬 Content Production",
+        "2 professional video shoot sessions",
+        "8 videos with advanced editing",
+        "2 custom posts (AI-generated images or graphic design)",
+        "📊 Marketing Excellence",
+        "Complete scripting + video ideas (Redix handles everything)",
+        "Full marketing strategy and execution",
+        "Advanced analytics and reporting",
+        "Strategy optimization based on performance",
+        "Monthly strategy review sessions",
+        "AI tool subscriptions included (Redix pays)",
+        "🌐 Professional Website",
+        "Custom website development",
+        "Admin dashboard for easy management",
+        "1 year hosting included",
+        "Search engine optimization (SEO)",
+        "Regular backups and security updates",
+        "Newsletter subscription integration"
+      ]
+    }
+  ]
+}

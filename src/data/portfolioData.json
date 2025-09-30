@@ -1,0 +1,22 @@
+{
+  "title": "Portfolio",
+  "description": "At Redix Digital Solution, our portfolio reflects the trust and results we've built with our clients. From startups to established businesses, we deliver creative digital strategies that generate visibility, engagement, and growth.",
+  "highlights": [
+    {
+      "title": "100+ Projects Delivered",
+      "description": "Successfully completed diverse projects across web development, mobile apps, and digital marketing campaigns"
+    },
+    {
+      "title": "50+ Happy Clients",
+      "description": "Building long-term partnerships with clients from various industries including retail, tech, and services"
+    },
+    {
+      "title": "Proven Results",
+      "description": "Delivered measurable outcomes with increased traffic, engagement, and conversions for our clients"
+    },
+    {
+      "title": "End-to-End Solutions",
+      "description": "From branding and design to development and marketing - we handle your complete digital journey"
+    }
+  ]
+}

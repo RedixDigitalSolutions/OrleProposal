@@ -1,0 +1,35 @@
+{
+  "title": "About Redix Digital Solutions",
+  "paragraphs": [
+    "Redix Digital Solution is a creative agency dedicated to helping businesses grow through tailored digital strategies and innovative solutions.",
+    "We specialize in social media marketing, branding, content creation, web and mobile development, and digital advertising. Our approach blends creativity with data-driven insights, ensuring that every campaign not only looks appealing but also delivers measurable results.",
+    "At Redix, we believe in building long-term partnerships with our clients by providing consistent support, transparent communication, and impactful strategies that strengthen their digital presence.",
+    "Whether you are a startup or an established brand, Redix Digital Solution provides the tools, creativity, and strategies to take your business to the next level. Together, we shape the future of digital success."
+  ],
+  "specialties": [
+    "Social Media Marketing",
+    "Branding & Design",
+    "Content Creation",
+    "Web & Mobile Development",
+    "Digital Advertising",
+    "Event Coverage & Filming"
+  ],
+  "stats": [
+    {
+      "value": "100+",
+      "label": "Projects Completed"
+    },
+    {
+      "value": "50+",
+      "label": "Happy Clients"
+    },
+    {
+      "value": "5+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "95%",
+      "label": "Client Satisfaction"
+    }
+  ]
+}
